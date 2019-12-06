@@ -20,3 +20,5 @@ chmod a+x fpoints.py
 ```
 ./fpoints.py
 ```
+
+> Click on <kbd>⭐️ Star</kbd> :)
